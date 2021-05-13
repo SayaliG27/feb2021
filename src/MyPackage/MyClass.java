@@ -20,6 +20,7 @@ public class MyClass {
             driver.findElement(By.name("q")).clear();
             Thread.sleep(10000);
             driver.close();
+        System.out.println("test git");
 
 
 
